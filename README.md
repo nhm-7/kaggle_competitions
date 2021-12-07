@@ -1,2 +1,3 @@
-# kaggle_competitions
-Diverse kaggle competitions in which I participated
+# Kaggle competitions
+
+Diverse kaggle competitions in which I participated.
